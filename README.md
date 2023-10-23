@@ -23,5 +23,8 @@ starship.toml.oneline <br>
 oneline-blue.toml <br>
 ![](https://raw.githubusercontent.com/Yabbo/starship-configs/main/images/oneline-blue.png)
 
+twoline-blue.toml <br>
+![](https://raw.githubusercontent.com/Yabbo/starship-configs/main/images/twoline-blue.png)
+
 toyko-night.toml <br>
 ![](https://raw.githubusercontent.com/Yabbo/starship-configs/main/images/tokyo-night.png)
