@@ -9,5 +9,9 @@ Documentation: https://starship.rs/guide/#%F0%9F%9A%80-installation <br>
 # starship-configs
 place one of the starship.toml files in ~/.config/starship.toml for your custom prompt 
 
-starship.toml
+starship.toml <br>
 ![](https://raw.githubusercontent.com/Yabbo/starship-configs/main/images/starship.png)
+
+
+starship.toml.oneline <br>
+![](https://raw.githubusercontent.com/Yabbo/starship-configs/main/images/starship-oneline.png)
