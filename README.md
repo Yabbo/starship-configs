@@ -19,3 +19,6 @@ starship.toml <br>
 
 starship.toml.oneline <br>
 ![](https://raw.githubusercontent.com/Yabbo/starship-configs/main/images/starship-oneline.png)
+
+toyko-night.toml <br>
+![](https://raw.githubusercontent.com/Yabbo/starship-configs/main/images/tokyo-night.png)
