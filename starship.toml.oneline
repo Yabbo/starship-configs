@@ -4,6 +4,10 @@
 # Inserts a blank line between shell prompts
 add_newline = false 
 
+#make a single line
+[line_break]
+disabled = true
+
 # Change the default prompt format
 #format = """\
 #[╭╴](238)$env_var\
@@ -88,7 +92,7 @@ disabled = true
 format = "via [ $version]($style) "
 
 [kubernetes]
-format = 'on [ $context\($namespace\)](bold purple) '
+format = 'on [ $context\($namespace\)](bold blue) '
 disabled = false
 [kubernetes.context_aliases]
 "clcreative-k8s-staging" = "cl-k8s-staging"

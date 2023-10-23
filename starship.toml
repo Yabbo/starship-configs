@@ -85,7 +85,7 @@ disabled = true
 format = "via [ $version]($style) "
 
 [kubernetes]
-format = 'on [ $context\($namespace\)](bold purple) '
+format = 'on [ $context\($namespace\)](bold blue) '
 disabled = false
 [kubernetes.context_aliases]
 "clcreative-k8s-staging" = "cl-k8s-staging"
