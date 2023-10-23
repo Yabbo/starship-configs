@@ -6,9 +6,9 @@ Documentation: https://starship.rs/guide/#%F0%9F%9A%80-installation <br>
   - Bash Add the following to the end of ~/.bashrc: ```eval "$(starship init bash)"```
   - ZSH Add the following to the end of ~/.zshrc: ```eval "$(starship init zsh)"```
 
-- Install Hack Nerd Font
-  - RUN ```wget https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Hack.zip```
-  - RUN ``unzip Hack.zip -d /usr/local/share/fonts``
+- Install Nerd fonts for custom icons 
+  - Can be found here https://github.com/ryanoasis/nerd-fonts/
+  - Below images are shown with MesloLGS NF 
 
 # starship-configs
 Rename and place one of the starship.toml files in ~/.config/starship.toml for your custom prompt 
