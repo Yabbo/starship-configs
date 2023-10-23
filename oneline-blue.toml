@@ -50,8 +50,8 @@ style = "51"
 [git_branch]
 symbol = ""
 format = "on [$symbol$branch]($style) "
-truncation_length = 4
-truncation_symbol = "…/"
+#truncation_length = 4
+#truncation_symbol = "…/"
 style = "bold green"
 
 [git_status]
