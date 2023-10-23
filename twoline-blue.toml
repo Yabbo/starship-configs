@@ -95,4 +95,4 @@ disabled = false
 [aws]
 format = 'on [$symbol($profile)(\($region\))]($style) '
 style = "bold 208"
-symbol = ''
+symbol = ' '
